@@ -1,6 +1,6 @@
 Hi, there! | I'm Kylym
 
-### Software Engineer currently working with the Backend/TypeScript/Node.js stack
+### Software Engineer currently working with the Backend/Node.js, stack
 I specializing in creating high-performance, scalable solutions for business and general purposes. I provide reliable, effective solutions with clean and maintainable code.
 
 ### Professional Philosophy
