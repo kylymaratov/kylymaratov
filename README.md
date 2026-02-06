@@ -11,4 +11,4 @@ I specialize in creating high-performance, scalable server-side solutions for bu
 
 ### **Let's Connect**
 * **Location:** Bishkek, Kyrgyz Republic 🇰🇬 (Available for remote/hybrid)
-* **Socials:** [LinkedIn](https://www.linkedin.com/in/kylymaratov) | [Telegram](https://t.me/kylymaratov) | [Email](mailto:kylymaratov@gmail.com)
+* **Socials:** [LinkedIn](https://www.linkedin.com/in/kylym-maratov-a2b4b13a0/) | [Telegram](https://t.me/kylymaratov) | [Email](mailto:kylymaratov@gmail.com)
