@@ -1,13 +1,14 @@
-Hi, there! | I'm Kylym
+### Hi, there! | I'm Kylym
 
-### Software Engineer currently working with the Backend/Node.js, stack
-I specializing in creating high-performance, scalable solutions for business and general purposes. I provide reliable, effective solutions with clean and maintainable code.
+#### **Software Engineer currently working with the Backend/Node.js, stack**
+I specialize in creating high-performance, scalable server-side solutions for business and general purposes. My focus is on developing reliable APIs, optimizing database interactions, and producing clean, maintainable code.
 
-### Professional Philosophy
-* **Clean Code:** Strong advocate for SOLID principles and Clean Architecture to ensure long-term maintainability.
-* **Fullstack Ownership:** Comfortable managing the entire lifecycle of a feature, from database schema design to front-end state management.
-* **Performance Driven:** Obsessed with query optimization, efficient caching strategies, and minimizing latency in real-time systems.
+#### **Technical Skills & Philosophy**
+* **Node.js Ecosystem:** Deep knowledge of Node.js, experienced with modern frameworks (e.g., **NestJS**, **Express**), and asynchronous programming paradigms.
+* **Databases & Caching:** Proficient in designing and optimizing **SQL** (PostgreSQL, MySQL) and **NoSQL** (MongoDB) databases. Experienced in implementing caching strategies using **Redis**.
+* **DevOps & Tools:** Comfortable working with **Docker** for containerization and implementing CI/CD pipelines.
+* **Clean Code & Architecture:** Strong advocate for **SOLID** principles, KISS, and Clean Architecture to ensure long-term project maintainability.
 
-### Let's Connect
+#### **Let's Connect**
 * **Location:** Bishkek, Kyrgyz Republic 🇰🇬 (Available for remote/hybrid)
 * **Socials:** [LinkedIn](https://www.linkedin.com/in/kylymaratov) | [Telegram](https://t.me/kylymaratov) | [Email](mailto:kylymaratov@gmail.com)
